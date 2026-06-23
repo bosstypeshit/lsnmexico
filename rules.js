@@ -81,7 +81,7 @@ const RULE_SECTIONS = [
 
 "TILOS frakcióból kilépés előtt a közös raktárat, kasszát kifosztani.",
 
-"Egy kartellként kötelező álcázni a szervezetetek és bármilyen hozzá kötödő információt.",
+"Egy kartellként kötelező álcázni a szervezetetek és bármilyen hozzá kötődő információt.",
 
 "A Frakció Leaderek kötelesek a tagjaik szabálysértéseiért is felelősséget vállalni.",
 
@@ -93,7 +93,7 @@ const RULE_SECTIONS = [
 
 "Tagfelvételhez kötelező legalább minimális IC felvételi folyamat.",
 
-"Rendvédelemnek a korruptkodás csak minimálisan engedélyzett. Pl.: Információ átadás, drogok eladása.",
+"Rendvédelemnek a korruptkodás csak minimálisan engedélyezett. Pl.: Információ átadás, drogok eladása.",
 
 " Rendvédelmi frakció tagja csak szolgálatban használhat szolgálati felszerelést, kivéve undercover egységek.",
 
@@ -147,7 +147,7 @@ const RULE_SECTIONS = [
       "TILOS valós / ismert személyek nevét megadni. Ez alól kivételt képeznek az igazi cartellek vezetőinek a neve, ha te abban a szervezetben vagy. (Pl.: Ha a CJNG vezetője vagy, lehet El Mencho a neved.)",
       "Kötelező a Mexikói / Dél-Amerikai öltözetstílusnak, illetve a karakteredhez megfelelően öltözködni.",
       "Karaktered kinézetének illeszkednie kell a korához, háttértörténetéhez és élethelyzetéhez.",
-      "TILOS irreális karaktert készíteni (Pl.: 18 éves milliárdos maffiafőnök, 20 éves volt FBI-vezető, mindentudó ex-kommandós)"
+      "TILOS irreális karaktert készíteni (Pl.: 18 éves milliárdos maffiafőnök, 20 éves volt FBI-vezető, mindentudó ex-kommandós)",
       "Karakterednek legyen gyengesége, félelme és reális személyisége. Nem játszhatsz sebezhetetlen, érzelemmentes „terminátor” karaktert."
     ]
   },
@@ -158,7 +158,6 @@ const RULE_SECTIONS = [
       "TILOS publikus helyen indokolatlanul lövöldözni, verekedni vagy provokálni.",
       "Publikus helyen kötelező figyelembe venni a környezetet és a reális következményeket.",
       "TILOS publikus helyet biztonságos menekülési pontként használni RP elől.",
-      "Ide írhatsz további alpontokat is, amennyit szeretnél."
     ]
   },
   {
@@ -178,9 +177,9 @@ const RULE_SECTIONS = [
       "Reportot csak- és kizárólag a /report paranccsal szabad írni. Bármilyen más in-game kommunikációs csatornán tilos segítséget kérni az adminoktól. (pl. frakció felhívás)",
       "Report írás után TILOS az AFK - Ha kimegy egy STAFF tag, és nem reagálsz, le fogja zárni a reportodat!",
       "Jó példa egy report szövegre: “Sziasztok, egy srác ide jött hozzánk és oknélkül lelőtt mindenkit. Rendelkezem videós bizonyítékkal, még tart a szituáció",
-      "Adminügy közben KÖTELEZŐ meghallgatni az admint, és a játékostársaidat."
-      "TILOS reportban sértegetni, provokálni vagy fenyegetőzni."
-      "TILOS RP Szituációt adminüggyel megszakitani! Súlyos szabálysértés esetén admin dönthet az RP megállításáról.   " 
+      "Adminügy közben KÖTELEZŐ meghallgatni az admint, és a játékostársaidat.",
+      "TILOS reportban sértegetni, provokálni vagy fenyegetőzni.",
+      "TILOS RP Szituációt adminüggyel megszakitani! Súlyos szabálysértés esetén admin dönthet az RP megállításáról." 
     
     ]
   },
@@ -210,7 +209,7 @@ const RULE_SECTIONS = [
       "TILOS a frakcióháborút folyamatos DM-ként kezelni, a háború nem azt jelenti, hogy minden találkozásnál azonnal lőni kell.",
       "A frakcióháborúnak legyen egyértelmű IC oka, célja és lezárási lehetősége.",
       "A háború előtt ajánlott IC figyelmeztetés, üzenet, tárgyalás vagy fenyegetés.",
-      "TILOS hamis vagy kitalált előzményekkel háborút indokolni."
+      "TILOS hamis vagy kitalált előzményekkel háborút indokolni.",
       "Frakcióháború nem jogosít fel automatikus HQ támadásra."
     ]
   },
