@@ -109,13 +109,13 @@ const RULE_SECTIONS = [
 
 "Rendvédelmi tagok kötelesek a testi épségüket előre helyezni. Pl.: HQ Raid közben nem szaladsz be egyedül.",
 
-"TILOS indokolatlanul erős fegyverzetet használni olyan szituációban, ami nem igényli meg azt."
+"TILOS indokolatlanul erős fegyverzetet használni olyan szituációban, ami nem igényli meg azt.",
       
 "Az illegális frakció tagok nem öltözhetnek egyenruhába. Minden tagnak más ruhában kell lennie, hasonlóság csak nyomokban lehet felfedezhető. Ez alól kivételt képez a Tier 3-as és 4-es frakciók."
     ]
   },
   {
-    title: "HQ Raid Szabályzat,
+    title: "HQ Raid Szabályzat",
     tag: "HQ Raidre vonatkozó szabályok",
     rules: [
       "HQ raid csak komoly IC indokkal indítható.",
