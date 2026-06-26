@@ -27,13 +27,20 @@ const RULE_SECTIONS = [
     title: "Általános szabályok",
     tag: "Alap szabályzat",
     rules: [
+     "A szerver Voice RP alapú, így mikrofon használata kötelező."
+
+      
       "TILOS a DM, más játékosok megtámadása / megölése előzmény nélkül",
 
 "TILOS az MG, olyan információk felhasználása amit az IC karaktered nem tudhat. (Pl. Stream-ben látod, hogy épp drogot csinálnak, te pedig odamész és lelövöd őket.)",
 
 "TILOS az SK, RK, NONRP, Force RP, Hanyag RP.",
 
+"Multiaccount használata szigorúan tilos.",      
+
 "Az NRK csak enyhített formában engedélyezett, viszont nagyobb ugratások, sportautókkal földúton száguldani stb. TILOS.",
+
+"TILOS a DB, kivéve, ha nyomós indokkal rendelkezel. (Pl.: Mész egyenesen, előugrik valaki a bokorból és elkezd lőni, ilyen esetekben szabályos elütni a másikat.)      
 
 "A PG csak enyhített formában engedélyezett, tehát ha 2-en fognak rád fegyvert, az egyik meg leteszi / elnéz másfele, az nem minősül PG-nek, de ITT IS kötelező az életedet a legfontosabb tényezőként kezelni. Viszont ha pl. 5-en fognak rád fegyvert és tovább rádiózol, futkározol az már PG-nek minősül és TILOS.",
 
@@ -65,6 +72,13 @@ const RULE_SECTIONS = [
 
 "TILOS a rádiót használni, ha a karaktered eszméletlen, bilincsben van, vagy elvették tőle.",
 
+"Csak kinzó felszereléssel lehet kínozni embereket, Le RP-zni (Pl.: levágom az úr ujját) TILOS stb.",      
+
+"Legális tárgyakkal maximum 25000 Peso alatt lehet átverni másokat. Illegális tárgyakkal bármekkora értékben.",
+
+"Elbújni bokrokban engedélyezett, viszont azokból lőni TILOS!"      
+
+"      
     ]
   },
   {
@@ -158,6 +172,7 @@ const RULE_SECTIONS = [
       "TILOS publikus helyen indokolatlanul lövöldözni, verekedni vagy provokálni.",
       "Publikus helyen kötelező figyelembe venni a környezetet és a reális következményeket.",
       "TILOS publikus helyet biztonságos menekülési pontként használni RP elől.",
+      "TILOS publikus helyen csomagtartót kipakolni!"
     ]
   },
   {
@@ -179,7 +194,8 @@ const RULE_SECTIONS = [
       "Jó példa egy report szövegre: “Sziasztok, egy srác ide jött hozzánk és oknélkül lelőtt mindenkit. Rendelkezem videós bizonyítékkal, még tart a szituáció",
       "Adminügy közben KÖTELEZŐ meghallgatni az admint, és a játékostársaidat.",
       "TILOS reportban sértegetni, provokálni vagy fenyegetőzni.",
-      "TILOS RP Szituációt adminüggyel megszakitani! Súlyos szabálysértés esetén admin dönthet az RP megállításáról." 
+      "TILOS RP Szituációt adminüggyel megszakitani! Súlyos szabálysértés esetén admin dönthet az RP megállításáról.",
+      "Amennyiben egy játékos valamilyen szabályt sért, te pedig Report-olod, KÖTELEZŐ videós / képi bizonyitékot mutatni róla, különben az adminnak nem kötelessége a másik játékost szankcionálni."
     
     ]
   },
@@ -199,7 +215,9 @@ const RULE_SECTIONS = [
     title: "Terület Szabályzat",
     tag: "Területekre vonatkozó szabályzat.",
     rules: [
-      "Területfoglalást csak is lábon lehet foglalni, járműben ülve TILOS!",  
+      "Területfoglalást csak is lábon lehet foglalni, járműben ülve TILOS!",
+      "A terület egyfajta DM Zónaként szolgál, tehát ha a körön belül vagy és lelőnek, az nem DM.",
+      "Területfoglalásokon TILOS a DB minden formája! Csak is lábon, és fegyverrel lehet egymásra lőni." 
     ]
   },
   {
@@ -209,6 +227,19 @@ const RULE_SECTIONS = [
       "Frakcióháború kizárólag komoly IC előzmény alapján indítható.",
       "TILOS a frakcióháborút folyamatos DM-ként kezelni, a háború nem azt jelenti, hogy minden találkozásnál azonnal lőni kell.",
       "A frakcióháborúnak legyen egyértelmű IC oka, célja és lezárási lehetősége.",
+      "A háború előtt ajánlott IC figyelmeztetés, üzenet, tárgyalás vagy fenyegetés.",
+      "TILOS hamis vagy kitalált előzményekkel háborút indokolni.",
+      "Frakcióháború nem jogosít fel automatikus HQ támadásra."
+    ]
+  },
+
+    {
+    title: "Character Kill Szabályzat",
+    tag: "CK-ra vonatkozó szabályzatok.",
+    rules: [
+      "A szerveren csak Memória CK van, Teljes CK csak is Leader-ek és Al-Leader-ek esetén szabályos.",
+      "CK-t csak megfelelő indokkal és előzetes jóváhagyással lehet végrehajtani..",
+      "CK-hoz legalább 1 órás, dokumentált IC RP előzmény szükséges.",
       "A háború előtt ajánlott IC figyelmeztetés, üzenet, tárgyalás vagy fenyegetés.",
       "TILOS hamis vagy kitalált előzményekkel háborút indokolni.",
       "Frakcióháború nem jogosít fel automatikus HQ támadásra."
