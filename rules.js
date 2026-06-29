@@ -62,7 +62,7 @@ const RULE_SECTIONS = [
 
 "TILOS az RP Alóli kilépés Pl: A rendvédelem beraideli a HQ-d, te pedig kilépsz, hogy ne kapjanak el.",
 
-"TILOS bármilyen segédprogram használata, amik előnyhöz juttatnak más játékosokkal szemben. (Célkereszt IS!)",
+"TILOS bármilyen segédprogram használata, amik előnyhöz juttatnak más játékosokkal szemben. (Célkereszt, Blood Fx, Citizen IS!)",
 
 "TILOS bármilyen OOC név vagy becenév használata IC.",
 
