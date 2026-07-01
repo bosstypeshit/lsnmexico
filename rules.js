@@ -76,7 +76,9 @@ const RULE_SECTIONS = [
 
 "Legális tárgyakkal maximum 25000 Peso alatt lehet átverni másokat. Illegális tárgyakkal bármekkora értékben.",
 
-"Elbújni bokrokban engedélyezett, viszont azokból lőni TILOS!"           
+"Elbújni bokrokban engedélyezett, viszont azokból lőni TILOS!",
+
+"Járművekkel TILOS átverni másokat!"      
     ]
   },
   {
